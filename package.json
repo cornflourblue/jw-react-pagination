@@ -1,7 +1,8 @@
 {
     "name": "jw-react-pagination",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "React Pagination Component",
+    "homepage": "http://jasonwatmore.com/post/2018/04/10/npm-jw-react-pagination-component",
     "repository": {
         "type": "git",
         "url": "https://github.com/cornflourblue/jw-react-pagination.git"
