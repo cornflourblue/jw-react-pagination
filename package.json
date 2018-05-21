@@ -1,33 +1,36 @@
 {
-    "name": "jw-react-pagination",
-    "version": "1.0.6",
-    "description": "React Pagination Component",
-    "homepage": "http://jasonwatmore.com/post/2018/04/10/npm-jw-react-pagination-component",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/cornflourblue/jw-react-pagination.git"
-    },
-    "main": "./lib/JwPagination.js",
-    "license": "MIT",
-    "scripts": {
-        "build": "webpack"
-    },
-    "peerDependencies": {
-        "prop-types": "^15.6.0",
-        "react": "^16.0.0",
-        "react-dom": "^16.0.0"
-    },
-    "devDependencies": {
-        "babel-core": "^6.21.0",
-        "babel-loader": "^7.1.4",
-        "babel-preset-env": "^1.6.1",
-        "babel-preset-react": "^6.16.0",
-        "babel-preset-stage-0": "^6.24.1",
-        "path": "^0.12.7",
-        "prop-types": "^15.6.0",
-        "react": "^16.0.0",
-        "react-dom": "^16.0.0",
-        "webpack": "^4.5.0",
-        "webpack-cli": "^2.0.14"
-    }
+  "name": "jw-react-pagination",
+  "version": "1.0.7",
+  "description": "React Pagination Component",
+  "homepage": "http://jasonwatmore.com/post/2018/04/10/npm-jw-react-pagination-component",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cornflourblue/jw-react-pagination.git"
+  },
+  "main": "./lib/JwPagination.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "peerDependencies": {
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "path": "^0.12.7",
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "webpack": "^4.5.0",
+    "webpack-cli": "^2.0.14"
+  },
+  "dependencies": {
+    "jw-paginate": "^1.0.2"
+  }
 }
